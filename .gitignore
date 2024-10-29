@@ -1,0 +1,2 @@
+node_modules/
+.env   //artinya .env tdk bisa masuk repository 
